@@ -1,0 +1,10 @@
+#Using the "While" loop
+#in  its stmplest form
+
+
+x = 0
+while x < 10:
+    print(x)
+    x += 1
+
+    
